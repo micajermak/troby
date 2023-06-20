@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;400&family=Manrope:wght@200;300;400&family=Montserrat:ital,wght@0,400;1,100&display=swap');
+
+/*
+font-family: 'Heebo', sans-serif;
+font-family: 'Manrope', sans-serif;
+font-family: 'Montserrat', sans-serif;
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.separa{
+    background-color:rgb(165, 161, 161);
+    padding: 80px;
+}
+
+.cover{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    color: #fff;
+}
+
+.set{
+    width: 50%;
+}
+
+.beneficio{
+    width: 30%;
+
+}
+.beneficio img{
+    width: 300px;
+}
+
+
+.set h2{
+    padding-bottom: 20px;
+}
+
+.set span{
+    font-weight: 800;
+} 
+
+.set p{
+    font-weight: 100;
+    padding-bottom: 20px;
+}
+
+

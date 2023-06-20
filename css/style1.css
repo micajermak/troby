@@ -202,3 +202,24 @@ body{
     color: #fff;
     cursor: pointer;
 }
+
+
+@media only screen and (min-width:300px) and (max-width:1024px){
+    .menu{
+        display: none !important;
+    }
+}
+
+
+@media only screen and (min-width:300px) and (max-width:800px){
+    .menu{
+        display: none !important;
+    }
+    .troby h2{
+        font-size: 30px;
+    }
+    .troby p{
+        font-size: 20px;
+    }
+}
+
